@@ -1,0 +1,14 @@
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\bin\Debug\net8.0\Lab1 - Creating Classes.exe
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\bin\Debug\net8.0\Lab1 - Creating Classes.deps.json
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\bin\Debug\net8.0\Lab1 - Creating Classes.runtimeconfig.json
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\bin\Debug\net8.0\Lab1 - Creating Classes.dll
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\bin\Debug\net8.0\Lab1 - Creating Classes.pdb
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\Lab1 - Creating Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\Lab1 - Creating Classes.AssemblyInfoInputs.cache
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\Lab1 - Creating Classes.AssemblyInfo.cs
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\Lab1 - Creating Classes.csproj.CoreCompileInputs.cache
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\Lab1 - Creating Classes.dll
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\refint\Lab1 - Creating Classes.dll
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\Lab1 - Creating Classes.pdb
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\Lab1 - Creating Classes.genruntimeconfig.cache
+C:\Users\smowi\source\repos\Lab1 - Creating Classes\Lab1 - Creating Classes\obj\Debug\net8.0\ref\Lab1 - Creating Classes.dll

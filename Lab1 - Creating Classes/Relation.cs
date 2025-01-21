@@ -9,17 +9,20 @@ namespace Lab1___Creating_Classes
 {
     public class Relationship
     {
+        //Private properties
         private string relationshipType;
-
+        //Public properties
         public string RelationshipType
         {
             get { return relationshipType; }
             set { relationshipType = value; }
         }
+        //Constructor
         public Relationship(string RType)
         {
             RelationshipType = RType;
         }
+        //Methods
         public string ShowRelationShip(Person person1,Person person2)
         {
             if(RelationshipType == "Brother") 

@@ -8,12 +8,12 @@ namespace Lab1___Creating_Classes
 {
     public class Person
     {
-        //private data
+        //Private data
         private string favoriteColour;
         private int age;
         private bool isWorking;
 
-        //public properties
+        //Public properties
         public int PersonId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -32,6 +32,7 @@ namespace Lab1___Creating_Classes
             get { return isWorking; }
             set { isWorking = value; }
         }
+        //Constructor
         public Person(int pId, string fN, string lN, string fC, int age, bool isWorking)
         {
             PersonId = pId;
@@ -41,7 +42,7 @@ namespace Lab1___Creating_Classes
             Age = age;
             IsWorking = isWorking;
         }
-        //methods
+        //Public methods
         public string DisplayPersonInfo()
         {
             return $"{PersonId}: {FirstName}'s favorite colour is {FavoriteColour}";
